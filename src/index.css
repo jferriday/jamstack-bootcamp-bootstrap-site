@@ -1,0 +1,24 @@
+
+
+header {
+    height: 80px;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3.5rem;
+}
+
+h1 {
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.carousel-item {
+    height: 80vh;
+    overflow: hidden;
+}
