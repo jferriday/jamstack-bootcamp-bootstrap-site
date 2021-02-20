@@ -2,7 +2,9 @@
 
 header {
     height: 80px;
-    background-color: blanchedalmond;
+    background-image: url(./images/ablum_isles.jpg);
+    background-size: cover;
+    filter: brightness(0.8);
     text-align: center;
     padding: 10px 0;
 }
@@ -11,6 +13,7 @@ header {
 .h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 3.5rem;
+    
 }
 
 h1 {
@@ -21,4 +24,8 @@ h1 {
 .carousel-item {
     height: 80vh;
     overflow: hidden;
+}
+
+.img_contain {
+    object-fit: contain;
 }
