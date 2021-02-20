@@ -2,7 +2,7 @@
 
 header {
     height: 80px;
-    background-image: url(./images/ablum_isles.jpg);
+    background-image: url('./src/images/ablum_isles.jpg');
     background-size: cover;
     filter: brightness(0.8);
     text-align: center;
